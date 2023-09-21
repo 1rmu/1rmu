@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/1rmu/1rmu/master/name.svg" alt="1rmu" />
+  <img src="https://raw.githubusercontent.com/1rmu/1rmu/assets/name.svg" alt="1rmu" />
 </h1>
 
 # Привет, меня зовут Владимир!
